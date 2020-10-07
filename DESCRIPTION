@@ -16,3 +16,8 @@ Depends:
 License: MIT + file LICENSE
 Imports: 
     tibble
+Suggests:
+    ggplot2,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
