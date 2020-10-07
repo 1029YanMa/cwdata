@@ -1,0 +1,9 @@
+template:
+  params:
+    booswatch: cosmo
+    
+navbar:
+  left:
+  - text: "get started"
+    href: "articles/crops.html"
+  
